@@ -1,4 +1,4 @@
-# TODANA
+# Toko Online Trophy
 
 Toko Online Trophy merupakan script yang bisa digunakan sebagai Toko Online Sederhana.
 
